@@ -1,6 +1,6 @@
 # My CSharp Projects
 
-## WareHouse Management System Project
+## WareHouse Management System (WMS)
 
 ### Instruction
 
