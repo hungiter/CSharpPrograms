@@ -1,6 +1,8 @@
-# WareHouse Management System Project
+# My CSharp Projects
 
-## Instructions:
+## WareHouse Management System Project
+
+### Instruction
 
 1. **Clone Project**
    - Clone the project to your computer.
@@ -29,5 +31,5 @@
 5. **Note:**
    - The application still works as shown in the video. Web functionality may need fixing due to lack of recent updates between "IIS + VSCode".
 
-## Demo Link:
+### Demo Link:
 [Watch Demo Video](https://www.youtube.com/watch?v=fjyFbUOT-lk)
